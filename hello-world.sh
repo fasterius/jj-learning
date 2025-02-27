@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "hello, world!"
+# A "Hello, world!" program
+
+echo "Hello, world!"
