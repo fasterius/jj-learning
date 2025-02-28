@@ -7,12 +7,12 @@ hello() {
     echo "Hello, world!"
 }
 
-goodbye() {
-    echo "Goodbye, world!"
-}
+ goodbye() {
+     echo "Goodbye, world!"
+ }
 
 # My main function
 main() {
-    hello()
-    goodbye()
+    hello
+    goodbye
 }
