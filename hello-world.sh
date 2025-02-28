@@ -3,4 +3,15 @@
 # A "Hello, world!" program
 # This is the best implementation of this, ever.
 
-echo "Hello, world!"
+hello() {
+    echo "Hello, world!"
+}
+
+goodbye() {
+    echo "Goodbye, world!"
+}
+
+main() {
+    hello
+    goodbye
+}
